@@ -67,10 +67,8 @@ flutter run
 - View, Displays UI and reacts to state changes
 This separation keeps the app clean, scalable, and maintainable.
 
-
-
-
-
+## Screencast
+https://github.com/user-attachments/assets/8b30cbdf-68c1-438f-bd45-18707d3300ba
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
@@ -86,3 +84,4 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  </br>
 
 **Thank you for visiting!**
+
